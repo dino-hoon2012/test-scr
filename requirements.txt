@@ -1,0 +1,12 @@
+aiohttp
+asyncio
+playwright
+selectolax
+pandas
+numpy
+opencv-python-headless
+psutil
+json
+logging
+random
+urllib3
